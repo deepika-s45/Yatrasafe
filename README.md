@@ -3,6 +3,9 @@
 ### Smart Tourist Security Using AI and Geofencing
 
 YatraSafe is an AI-powered tourist safety platform that provides **real-time location monitoring, danger-zone detection, geofencing, AI-based risk assessment, and emergency support**.
+## 🌐 Live Demo
+
+🚀 **Web App:** https://yatrasafe.vercel.app/
 
 ## ✨ Features
 
