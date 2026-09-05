@@ -1,16 +1,77 @@
-# React + Vite
+# 🛡️ YatraSafe
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+### Smart Tourist Security Using AI and Geofencing
 
-Currently, two official plugins are available:
+YatraSafe is an AI-powered tourist safety platform that provides **real-time location monitoring, danger-zone detection, geofencing, AI-based risk assessment, and emergency support**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 🤖 AI-based Risk & Safety Score
+- 📍 Real-time GPS Tracking
+- 🔴 Smart Danger-Zone Geofencing
+- 🚨 Emergency SOS
+- 🗺️ Interactive Safety Map
+- 👮 Authority Monitoring Dashboard
+- 🧭 Safe Route Assistance
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the Oxlint configuration
+**Frontend:** React, Vite, Leaflet  
+**Backend:** FastAPI, Python  
+**AI:** Scikit-learn, Isolation Forest  
+**Database:** PostgreSQL, PostGIS  
+**Deployment:** Vercel, Render
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🎯 Objective
+
+To shift tourist safety from **reactive emergency response to proactive AI-powered protection**.
+
+> **Travel Freely. Stay Protected.**
+
+## 👩‍💻 Project
+
+**YatraSafe — Smart Tourist Security Using AI and Geofencing**
+YatraSafe/
+│
+└── frontend/
+    ├── src/
+    │   ├── pages/
+    │   │   ├── Login.jsx
+    │   │   ├── Register.jsx
+    │   │   ├── TouristDashboard.jsx
+    │   │   └── AuthorityDashboard.jsx
+    │   │
+    │   ├── backend/
+    │   │   ├── main.py
+    │   │   ├── risk_engine.py
+    │   │   └── requirements.txt
+    │   │
+    │   ├── App.jsx
+    │   ├── App.css
+    │   ├── index.css
+    │   └── main.jsx
+    │
+    ├── package.json
+    └── README.md
+    
+##  🚀 Deployment
+Frontend
+
+The React application can be deployed using Vercel.
+
+Backend
+
+The FastAPI backend can be deployed using Render.
+
+For production deployment, database credentials and API URLs should be configured using environment variables.
+
+
+##🔮 Future Scope
+ --- Mobile application
+--- Offline SMS emergency support
+--- Multilingual voice assistant
+--- Voice SOS
+--- Family journey sharing
+--- Digital Tourist ID / QR
+--- AI-powered safe route optimization
+
